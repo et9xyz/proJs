@@ -1,4 +1,4 @@
 var x = 1;
 var y= 2;
 var z = x+y;
-// Thanh long1
+// Do you understand?
